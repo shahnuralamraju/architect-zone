@@ -55,9 +55,11 @@ a {
 
 /* text color classes  */
 .text-white {
-    color: white;
+    color: #ffffff;
 }
-
+.text-dark{
+    color: #000000;
+}
 .text-center {
     text-align: center;
 }
