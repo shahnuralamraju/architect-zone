@@ -6,7 +6,6 @@
     font-family: 'Work Sans';
     scroll-behavior: smooth;
 }
-
 /* general classes  */
 p {
     line-height: 26px;
@@ -388,8 +387,9 @@ a {
 
     .navitem-container {
         /* flex-direction: column; */
-        width: 94%;
+        width: 90%;
         margin: 0 auto;
+        overflow-x: scroll;
     }
 
     .nav-item {
